@@ -1,0 +1,51 @@
+body {
+    background: #B8D17E; 
+    padding:4%;
+    text-align: justify;
+    font-size: 20px;
+    height: 100vh;
+    width: 100vw;
+}
+
+#submit {
+    width: 18%;
+    height: 10%;
+    border: black solid;
+    margin-left: 5%;
+    font-size: 20px;
+
+}
+.textbox {
+    width: 28%;
+    height: 25px;
+    border: black solid;
+    background-color: #f7f7f7;
+}
+
+.datetime {
+    height: 25px;
+    border: black solid;
+}
+
+.comments {
+    height: 50px;
+}
+hr {
+    color: black;
+    width: 100vw;
+}
+#visitors-table {
+    background-color: #f7f7f7;
+    border: black solid;
+}
+
+th {
+    border: black solid;
+    padding: 7px;
+    /* background-color: red; */
+}
+
+td {
+    border: black solid;
+    background-color: #f4f4f4;
+}
